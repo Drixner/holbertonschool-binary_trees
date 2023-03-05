@@ -1,3 +1,7 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/Drixner/holbertonschool-low_level_programming)
+[![C|C](https://img.shields.io/badge/repo-100%20commits-orange.svg)](https://sourcerer.io/Drixner)
+
+
 # Binary trees
 
 Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn about what is a binary tree, the different traversal methods to go through a binary tree and the different types of binary trees (complete, full, perfect and balanced).
